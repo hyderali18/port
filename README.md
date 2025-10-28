@@ -89,7 +89,7 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
 
 3. Enable GitHub Pages in your repository settings (use `gh-pages` branch)
 
-Your site will be live at `https://[your-github-username].github.io/port/`
+Your site will be live at `https://hyderali18.github.io/port/`
 
 ## Project Structure
 
