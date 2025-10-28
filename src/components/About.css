@@ -1,0 +1,43 @@
+.about {
+  background: var(--color-background-light);
+  padding: 80px 20px;
+}
+
+.about-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.about h2 {
+  font-size: 36px;
+  color: var(--color-navy);
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-content p {
+  font-size: 16px;
+  color: var(--color-text-primary);
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.about-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .about {
+    padding: 60px 20px;
+  }
+
+  .about h2 {
+    font-size: 28px;
+  }
+}
